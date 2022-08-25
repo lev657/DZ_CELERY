@@ -1,0 +1,12 @@
+flask~=2.0.1
+Flask-Mail
+flask_sqlalchemy
+sqlalchemy~=1.4.22
+psycopg2-binary
+flask_bcrypt
+jsonschema~=3.2.0
+python-dotenv~=0.19.0
+
+redis
+celery
+kombu~=5.1.0
